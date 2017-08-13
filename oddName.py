@@ -12,7 +12,7 @@ def main():
         print(s)
 
     else:
-        print("Error")
+        print("Error. Your name length = 0,")
 
 if __name__ == "__main__":
     main()
